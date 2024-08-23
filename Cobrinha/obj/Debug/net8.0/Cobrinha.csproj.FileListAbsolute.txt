@@ -1,0 +1,15 @@
+C:\Users\Davyd Ferreira\Documents\code\csharp\Cobrinha\obj\Debug\net8.0\Cobrinha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Davyd Ferreira\Documents\code\csharp\Cobrinha\obj\Debug\net8.0\Cobrinha.AssemblyInfoInputs.cache
+C:\Users\Davyd Ferreira\Documents\code\csharp\Cobrinha\obj\Debug\net8.0\Cobrinha.AssemblyInfo.cs
+C:\Users\Davyd Ferreira\Documents\code\csharp\Cobrinha\obj\Debug\net8.0\Cobrinha.csproj.CoreCompileInputs.cache
+C:\Users\Davyd Ferreira\Documents\code\csharp\Cobrinha\obj\Debug\net8.0\Cobrinha.sourcelink.json
+C:\Users\Davyd Ferreira\Documents\code\csharp\Cobrinha\bin\Debug\net8.0\Cobrinha.exe
+C:\Users\Davyd Ferreira\Documents\code\csharp\Cobrinha\bin\Debug\net8.0\Cobrinha.deps.json
+C:\Users\Davyd Ferreira\Documents\code\csharp\Cobrinha\bin\Debug\net8.0\Cobrinha.runtimeconfig.json
+C:\Users\Davyd Ferreira\Documents\code\csharp\Cobrinha\bin\Debug\net8.0\Cobrinha.dll
+C:\Users\Davyd Ferreira\Documents\code\csharp\Cobrinha\bin\Debug\net8.0\Cobrinha.pdb
+C:\Users\Davyd Ferreira\Documents\code\csharp\Cobrinha\obj\Debug\net8.0\Cobrinha.dll
+C:\Users\Davyd Ferreira\Documents\code\csharp\Cobrinha\obj\Debug\net8.0\refint\Cobrinha.dll
+C:\Users\Davyd Ferreira\Documents\code\csharp\Cobrinha\obj\Debug\net8.0\Cobrinha.pdb
+C:\Users\Davyd Ferreira\Documents\code\csharp\Cobrinha\obj\Debug\net8.0\Cobrinha.genruntimeconfig.cache
+C:\Users\Davyd Ferreira\Documents\code\csharp\Cobrinha\obj\Debug\net8.0\ref\Cobrinha.dll
